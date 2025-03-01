@@ -167,6 +167,7 @@ body {
   padding: 20px;
   min-height: 100vh;
   position: relative;
+  overflow-y: hidden;
 }
 
 .page-5 {

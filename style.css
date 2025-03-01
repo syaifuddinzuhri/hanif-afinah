@@ -53,7 +53,7 @@ body {
 
 .manten-1 {
   position: absolute;
-  bottom: 0;
+  bottom: -20px;
   width: 120px;
   right: 0;
 }

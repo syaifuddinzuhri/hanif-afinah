@@ -53,14 +53,14 @@ body {
 
 .manten-1 {
   position: absolute;
-  bottom: -40px;
+  bottom: 0;
   width: 120px;
   right: 0;
 }
 
 .manten-2 {
   position: absolute;
-  bottom: -20px;
+  bottom: 0;
   width: 120px;
   left: 0;
 }
@@ -167,7 +167,6 @@ body {
   padding: 20px;
   min-height: 100vh;
   position: relative;
-  overflow-y: hidden;
 }
 
 .page-5 {

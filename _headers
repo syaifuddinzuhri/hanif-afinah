@@ -1,4 +1,4 @@
 /*
   X-Robots-Tag: all
-  Cache-Control: public, max-age=3600
+  Cache-Control: public, max-age=0, must-revalidate
   Access-Control-Allow-Origin: *

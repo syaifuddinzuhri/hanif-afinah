@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hanif-afina.netlify.app/sitemap.xml

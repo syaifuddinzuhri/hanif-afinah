@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 500); // Match the duration of the CSS transition
   });
 
-  const countdownDate = new Date(2025, 4, 12, 9, 0, 0).getTime();
+  const countdownDate = new Date(2025, 3, 12, 9, 0, 0).getTime();
 
   // Update the countdown every second
   const countdownTimer = setInterval(function () {
